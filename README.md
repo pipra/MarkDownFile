@@ -34,5 +34,19 @@ Start lines with hyphens, plus or asterisks then a space to make an unordered li
 - [x] ~Eggs~
 - [x] Teabags
 
+# **Headings**
+Start a line with one to six hashes then a space to make it a heading <br>
+# Constitution of the United States
+
+## Articles
+
+### Article I: The Legislative Branch
+
+#### Section 1: The Legislature
+
+
+---
+***
+___
 
 
